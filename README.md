@@ -1,12 +1,12 @@
 # Animation.gift:![Animation taş](https://user-images.githubusercontent.com/118935193/213815321-09feac7b-80c9-4da1-b709-12079f7a22c4.gif)
 
-#Google Landing Page desing URL: https://ilknurtuncer.github.io/Google-Landing-Page/
+# Google Landing Page desing URL: https://ilknurtuncer.github.io/Google-Landing-Page/
 
 
 ## What I used in this project?
 
 ## Description
-Project aims to create google landing page.
+Project to create google landing page.
 ## Project Skeleton 
 
 ```
